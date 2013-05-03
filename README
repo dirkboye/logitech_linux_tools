@@ -1,0 +1,18 @@
+Some Linux tools for Logitech devices.
+
+Build with make.
+
+
+performance_mx_dpi:
+Code by Alexander Hofbauer from
+http://derhofbauer.at/blog/blog/2012/08/28/logitech-performance-mx/
+Purpose: Change DPI of Logitech Performance Mouse MX
+
+unifying_pair:
+Code by Benjamin Tissoires
+Purpose: Pair new devices to Logitech Unifying USB Adapter
+
+ltunfiy:
+Code by Peter Wu from
+http://git.lekensteyn.nl/ltunify
+Purpose: List/Pair/Unpair devices of Logitech Unifying USB Adapter
